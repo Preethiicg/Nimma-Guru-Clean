@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222585518458",
+    "project_id": "teach-19732",
+    "storage_bucket": "teach-19732.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222585518458:android:b30ad5fd5db0048341bec3",
+        "android_client_info": {
+          "package_name": "com.nimmaguru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYVoQVltbBCvzW8QO8wnAfevy9XmnAz9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

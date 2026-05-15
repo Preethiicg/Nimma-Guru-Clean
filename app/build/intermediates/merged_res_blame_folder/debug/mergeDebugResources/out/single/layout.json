@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-mergeDebugResources-56:\\layout\\fragment_appreciation.xml",
+        "source": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-main-59:\\layout\\fragment_appreciation.xml"
+    },
+    {
+        "merged": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-mergeDebugResources-56:\\layout\\item_simple_card.xml",
+        "source": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-main-59:\\layout\\item_simple_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-mergeDebugResources-56:\\layout\\item_guru.xml",
+        "source": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-main-59:\\layout\\item_guru.xml"
+    },
+    {
+        "merged": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-mergeDebugResources-56:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-main-59:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-mergeDebugResources-56:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-main-59:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-mergeDebugResources-56:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-main-59:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.nimmaguru.app-mergeDebugResources-56:/layout/fragment_profile.xml",
+        "source": "com.nimmaguru.app-main-59:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-mergeDebugResources-56:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-main-59:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-mergeDebugResources-56:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-main-59:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-mergeDebugResources-56:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-main-59:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-mergeDebugResources-56:\\layout\\activity_role_selection.xml",
+        "source": "C:\\Users\\preet\\.gradle\\daemon\\9.0.0\\com.nimmaguru.app-main-59:\\layout\\activity_role_selection.xml"
+    }
+]

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="onPrimaryContainer">#2E1A47</color>
+    <color name="onSurface">#2A2333</color>
+    <color name="outline">#B9A8D4</color>
+    <color name="primary">#7E57C2</color>
+    <color name="primaryContainer">#EDE1FF</color>
+    <color name="secondary">#BA68C8</color>
+    <color name="surface">#FAF7FF</color>
+    <color name="surfaceVariant">#F0E8FF</color>
+    <string name="app_name">Nimma-Guru</string>
+    <string name="gcm_defaultSenderId" translatable="false">222585518458</string>
+    <string name="google_api_key" translatable="false">AIzaSyDYVoQVltbBCvzW8QO8wnAfevy9XmnAz9A</string>
+    <string name="google_app_id" translatable="false">1:222585518458:android:b30ad5fd5db0048341bec3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDYVoQVltbBCvzW8QO8wnAfevy9XmnAz9A</string>
+    <string name="google_storage_bucket" translatable="false">teach-19732.firebasestorage.app</string>
+    <string name="project_id" translatable="false">teach-19732</string>
+    <style name="Theme.NimmaGuru" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="colorPrimaryContainer">@color/primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/onPrimaryContainer</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorSurfaceVariant">@color/surfaceVariant</item>
+        <item name="colorOnSurface">@color/onSurface</item>
+        <item name="colorOutline">@color/outline</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/primary</item>
+    </style>
+</resources>
